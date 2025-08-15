@@ -1,2 +1,3 @@
 # fullstack-product-management
-Full-stack product management system built with .NET 8, Entity Framework Core, and React Redux. Features include product CRUD operations, JWT-based authentication, and a modern UI.
+E-commerce platform built using .NET microservices architecture with API Gateway, JWT authentication, and a React + Redux frontend. Includes backend services for products, authentication, and cart management, with clean API structure.
+
